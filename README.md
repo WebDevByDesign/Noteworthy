@@ -4,7 +4,8 @@
 ## Description
 NoteWorthy is an app that allows the User to create and save notes. Notes can be saved and retrievable at a later time.
 ## Screenshot
-![ALT](/public/images/SS-noteworthy.png)
+![ALT](/public/assets/images/SS-Noteworthy1.png)
+![ALT](/public/assets/images/SS-Noteworthy2.png)
 ## Deployed App on Heroku
 https://noteworthy-now.herokuapp.com/
 ## Table of Contents

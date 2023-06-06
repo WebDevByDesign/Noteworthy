@@ -1,10 +1,21 @@
+*{
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
 html,
 body {
   height: 100%;
   margin: 0;
   padding: 0;
 }
-
+.btn {
+  background-color:#13034b;
+}
+.btn:hover {
+  background-color: cornflowerblue;
+}
+.navbar {
+  background-color: #13034b !important;
+}
 .save-note {
   display: none;
 }
@@ -18,7 +29,7 @@ body {
 
 .note-textarea,
 .note-title {
-  color: #000000;
+  color: #13034b;
   width: 100%;
   outline: none;
   border: none;
